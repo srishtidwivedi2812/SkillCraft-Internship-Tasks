@@ -1,12 +1,12 @@
 # Task 02: Brand Persona & Voice Guide
 
-## 🧴 Fictional Brand: Glowberry Naturals
+##  Fictional Brand: Glowberry Naturals
 
 Glowberry Naturals is a modern, youth-driven skincare brand that creates plant-based, cruelty-free products for sensitive and acne-prone skin. Inspired by clean beauty trends and Gen Z values, Glowberry blends fun, science, and sustainability into one radiant experience.
 
 ---
 
-## 👤 Brand Persona
+##  Brand Persona
 
 | Attribute              | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
@@ -21,7 +21,7 @@ Glowberry Naturals is a modern, youth-driven skincare brand that creates plant-b
 
 ---
 
-## 🎯 Target Audience
+##  Target Audience
 
 - **Demographic**: Ages 16–28, mostly students, college-goers, and young professionals
 - **Location**: Urban and semi-urban India (metros, Tier-2 cities)
@@ -29,7 +29,7 @@ Glowberry Naturals is a modern, youth-driven skincare brand that creates plant-b
 
 ---
 
-## ✨ Tone of Voice
+##  Tone of Voice
 
 | Scenario                          | Voice & Tone Example                                                                 |
 |-----------------------------------|---------------------------------------------------------------------------------------|
