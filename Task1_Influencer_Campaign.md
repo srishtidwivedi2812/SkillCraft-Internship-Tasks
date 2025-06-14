@@ -61,7 +61,7 @@ Mamaearth is a personal care brand known for its natural, toxin-free skincare, h
 
 ---
 
-## 📊 Summary Table
+##  Summary Table
 
 | Influencer         | Platform(s)       | Followers     | Engagement Rate | Rationale                                      |
 |--------------------|-------------------|----------------|------------------|------------------------------------------------|
@@ -73,6 +73,6 @@ Mamaearth is a personal care brand known for its natural, toxin-free skincare, h
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 These influencers not only match Mamaearth’s values but also reach key customer segments with high engagement, credibility, and storytelling power that can build brand trust.
