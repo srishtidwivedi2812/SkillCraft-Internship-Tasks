@@ -1,12 +1,12 @@
 # Task 01: Influencer Proposal for Mamaearth
 
-## ✅ Brand Chosen: Mamaearth
+##  Brand Chosen: Mamaearth
 
 Mamaearth is a personal care brand known for its natural, toxin-free skincare, haircare, and baby care products. It focuses on sustainability, eco-conscious packaging, and targeting Gen Z and millennials who value clean beauty.
 
 ---
 
-## 🎯 Goal of Influencer Collaboration
+##  Goal of Influencer Collaboration
 
 - Increase awareness about natural and chemical-free personal care
 - Drive traffic to website/social platforms
@@ -14,7 +14,7 @@ Mamaearth is a personal care brand known for its natural, toxin-free skincare, h
 
 ---
 
-## 👩‍💻 Proposed Influencers (3–5)
+##  Proposed Influencers (3–5)
 
 ### 1. **Santoshi Shetty**
 - **Platform**: Instagram, YouTube
