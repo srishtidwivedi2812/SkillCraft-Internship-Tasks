@@ -41,7 +41,7 @@ Glowberry Naturals is a modern, youth-driven skincare brand that creates plant-b
 
 ---
 
-## 🌈 Visual Identity (descriptive)
+##  Visual Identity (descriptive)
 
 - **Logo Style**: Minimalist, lowercase cursive with a berry icon as the dot on “i”
 - **Color Palette**:  
@@ -56,7 +56,7 @@ Glowberry Naturals is a modern, youth-driven skincare brand that creates plant-b
 
 ---
 
-## 💬 Language Guidelines
+##  Language Guidelines
 
 - Avoid formal jargon
 - Use inclusive, body-positive language
@@ -66,7 +66,7 @@ Glowberry Naturals is a modern, youth-driven skincare brand that creates plant-b
 
 ---
 
-## 🔁 Brand Consistency Checklist
+##  Brand Consistency Checklist
 
 - [x] Every caption must reflect positivity or skin confidence
 - [x] All DMs replied within 24 hours using emojis and warmth
@@ -75,7 +75,7 @@ Glowberry Naturals is a modern, youth-driven skincare brand that creates plant-b
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 Glowberry Naturals is not just a skincare brand; it is a skincare bestie that understands youth, celebrates authenticity, and brings fun to clean beauty. The voice is empowering and comforting—like a friend who tells you to put on sunscreen and drink water.
 
